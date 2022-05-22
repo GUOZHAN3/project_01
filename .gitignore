@@ -1,2 +1,5 @@
-#忽略index,js文件
+#忽略index.js文件
 index.js
+
+#忽略test的子目录
+test/
